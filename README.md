@@ -1,2 +1,3 @@
 # AnimeSite
-Simple HTML website to keep track of seasonal anime
+Simple website with HTML, CSS, and JavaScript 
+to keep track of seasonal anime
